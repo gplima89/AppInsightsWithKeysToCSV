@@ -12,5 +12,5 @@ To continue streaming live metrics telemetry into your application insights reso
 
 # How to execute
 1- Save the code in your computer<br />
-2- Run the code with PowerShell (.\<path to code>)
+2- Run the code with PowerShell (.\<path to code>)<br />
 3- The code will create a CSV file in the folder provided on line 38 of the code (Variable filename)
