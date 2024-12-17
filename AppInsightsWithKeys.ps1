@@ -35,7 +35,7 @@ catch {
     exit 0
 }
 
-$filename = "C:\Users\limagui\Documents\Retirements\AppInsightsKeys\AppInsightsWithKeys.csv"
+$filename = "C:\temp\AppInsightsWithKeys.csv"
 $TotalAZGraph = 0
 $Counter = 1000
 $Skip = 0
